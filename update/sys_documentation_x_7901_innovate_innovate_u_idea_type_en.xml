@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_idea_type" label="Idea type" language="en" table="x_7901_innovate_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_idea_type</element>
+            <help/>
+            <hint/>
+            <label>Idea type</label>
+            <language>en</language>
+            <name>x_7901_innovate_innovate</name>
+            <plural>Idea types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-03 16:31:32</sys_created_on>
+            <sys_id>a1ab6d1137b22300574eae7873990e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Idea type</sys_name>
+            <sys_package display_value="Innovate" source="x_7901_innovate">1c51ed1937722300574eae7873990ee9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">1c51ed1937722300574eae7873990ee9</sys_scope>
+            <sys_update_name>sys_documentation_x_7901_innovate_innovate_u_idea_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-03 16:31:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
